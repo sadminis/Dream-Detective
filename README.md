@@ -7,3 +7,5 @@ game allows the player to control the characters solely by speaking to the game.
 action words. As a result, the chat-bot will understand action words not limited to what we
 have implemented. For example, it will understand the input “Start game” and also “Let’s go
 and play”.
+
+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
