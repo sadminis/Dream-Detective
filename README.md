@@ -8,4 +8,7 @@ action words. As a result, the chat-bot will understand action words not limited
 have implemented. For example, it will understand the input “Start game” and also “Let’s go
 and play”.
 
-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
+available upon request
+
+
+
